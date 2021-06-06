@@ -14,3 +14,11 @@ If you are wondering why its called an engine, its because I have no idea what e
 I know it not exactly an engine but ... eh?
 
 ...and this goes without saying I am not responsible if you get caught cheating.
+
+
+# How To Use
+Each textbar can be entered with one rule
+The rule must be a LL1 type rule
+Use the 0 (zero) button to insert null
+Use the > (period) button to insert arrow
+Non terminal will be capital letter
